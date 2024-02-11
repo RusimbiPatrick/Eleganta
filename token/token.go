@@ -20,7 +20,7 @@ const (
 	//operators
 	ASSIGN = "="
 	EQ = "=="
-	NOT_EQ = "=="
+	NOT_EQ = "!="
 
 	PLUS = "+"
 	MINUS = "_"
